@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-jain17&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-jain17" /> </p>
 
-- 🔭 I’m currently working on [Expensify](https://github.com/vivek-jain17/Expensify)
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [vivek-jain17.github.io](https://vivek-jain17.github.io)
 
